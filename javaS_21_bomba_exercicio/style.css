@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(194, 194, 194);
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#tela {
+    width: 610px;
+    height: 110px;
+    background: rgb(2, 49, 2);
+    align-items: center;
+}
+
+.num {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 350%;
+    text-align: center;
+}
+
+.cont {
+    color: rgb(0, 0, 0);
+    font-size: 400%;
+    text-align: center;
+}
+
+.teclas {
+    padding-top: 20px;
+}
+
+.teclas button {
+    font-size: 50px;
+    width: 200px;
+    height: 100px;
+    transition: background-color 0.3s;
+    background-color: #f0f0f0;
+}
+
+.teclas button:hover {
+    background-color: #d0d0d0;
+}
+
+.teclas button:active {
+    background-color: #7a7a7a;
+}
+
+.orient {
+    padding-top: 3%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    text-align: center;
+    z-index: 1;
+}
+
+@keyframes Iniciar {
+    0% {
+        background: rgb(1, 64, 1);
+    }
+
+    100% {
+        background: rgb(1, 134, 1);
+    }
+}
