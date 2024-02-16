@@ -12,7 +12,7 @@ O projeto foi implementado utilizando as seguintes tecnologias:
 - **JavaScript:** Responsável pela lógica de programação da aplicação, incluindo a contagem regressiva e a funcionalidade de interação com o usuário.
 
 ### **Como Utilizar:**
-Para utilizar a Bomba Relógio, basta abrir o arquivo `index.html` em um navegador da web compatível. O usuário deve clicar em "iniciar" e inserir a senha padrão (123456) para iniciar a contagem regressiva. Quando o tempo definido expirar, a "explosão" será simulada na tela.
+Para utilizar a Bomba Relógio, basta abrir o arquivo `index.html` em um navegador da web compatível. O usuário deve clicar em "iniciar" e inserir a senha padrão ("123456") para iniciar a contagem regressiva. Quando o tempo definido expirar, a "explosão" será simulada na tela.
 
 ### **Contribuições:**
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir bugs ou adicionar novos recursos à aplicação. Basta fazer um fork deste repositório, fazer as alterações desejadas e enviar um pull request para revisão.
