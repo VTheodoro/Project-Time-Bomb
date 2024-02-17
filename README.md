@@ -1,6 +1,6 @@
 ## **Bomba Relógio - Projeto de Programação Web (Não Finalizado)**
 
-Este repositório contém o código fonte do projeto de uma Bomba Relógio desenvolvida na disciplina de Programação Web no ano de 2023, sob a orientação do professor **[@Fred](https://github.com/fbamuniz)**. A Bomba Relógio é uma aplicação web interativa desenvolvida utilizando as tecnologias fundamentais da web: HTML, CSS e JavaScript.
+Este repositório contém o código fonte do projeto de uma Bomba Relógio desenvolvida na disciplina de Programação Web no ano de 2023, sob a orientação do professor **[Fred](https://github.com/fbamuniz)**. A Bomba Relógio é uma aplicação web interativa desenvolvida utilizando as tecnologias fundamentais da web: HTML, CSS e JavaScript.
 
 ### **Sobre o Projeto:**
 A Bomba Relógio é um projeto prático que visa demonstrar os conceitos aprendidos durante a disciplina de Programação Web. A aplicação simula uma bomba relógio digital, onde o usuário pode utilizar comandos no numpad da "bomba" para controlar as ações da mesma, com contagem regressiva de 30 segundos, senha para desativação e ativação, abortar contagem, continuar contagem e no final da contagem, uma "explsão" na sua tela. 
